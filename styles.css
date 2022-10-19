@@ -15,6 +15,7 @@ body{
 .card{
     width: 180px;
     padding: 50px;
+    text-align: left;
 }
 
 .suvs{
